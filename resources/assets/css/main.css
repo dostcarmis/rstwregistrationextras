@@ -1,0 +1,22 @@
+#raffle {
+	margin-top: 20px;
+    margin-bottom: 15px;
+    height: 350px;
+    border: 2px #7b7878 solid;
+    border-radius: 17px;
+    overflow: auto;
+    font-size: 24px;
+    padding: 21px;
+}
+
+#winner-list {
+	margin-top: 20px;
+    height: 350px;
+    overflow: auto;
+    font-size: 150%;
+    color: #d02b2b;
+}
+
+.color-font-1 {
+	color: #ff0000;
+}
